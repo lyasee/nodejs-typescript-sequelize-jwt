@@ -1,7 +1,7 @@
 {
-  "name": "nodejs",
+  "name": "nodejs-typescript-sequelize-jwt",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodejs-typescript-sequelize-jwt",
   "main": "index.js",
   "scripts": {
     "build": "rimraf dist && tsc",
@@ -12,8 +12,8 @@
     "tslint": "tslint -c tslint.json -p tsconfig.json"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "lyasee (lyasee@naver.com)",
+  "license": "MIT",
   "devDependencies": {
     "@types/bluebird": "^3.5.27",
     "@types/express": "^4.17.0",
